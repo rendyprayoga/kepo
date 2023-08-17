@@ -1,11 +1,7 @@
 # HappyBirthday-Script
 
-Simple happy birthday script build using bootstrap 4
 
-Use for learn.
-
-
-Demo Site : <a href="https://wafarifki.github.io/HappyBirthday-Script/">See Demo</a>
+Demo Site : <a href="https://rendyprayoga.github.io/kepo/">See Demo</a>
 
 # Let's connect with me!
 <p>
