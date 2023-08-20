@@ -6,7 +6,7 @@
 
 .bodi {
   height: 100vh;
-  background-color: #f08080;
+  background-color: #00aeb4;
 }
 
 .card {
@@ -20,7 +20,7 @@
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #00aeb4 !important;
+  background-color: #068c8e !important;
   background-clip: border-box;
   border: 0px solid rgba(0, 0, 0, 0) !important;
   border-radius: 10px !important;
@@ -38,7 +38,7 @@
 }
 
 .tombol {
-  background: #f08080;
+  background: #00aeb4;
   border: none;
   outline: none;
   border-radius: 6px;
@@ -53,13 +53,13 @@
   border: none;
   outline: none;
   border-radius: 6px;
-  color: #f08080;
+  color: #00aeb4;
   padding: 10px;
   font-weight: bold;
 }
 
 .modal-content {
-  background-color: #00aeb4 !important;
+  background-color: #068c8e !important;
 }
 
 .modal-body {
